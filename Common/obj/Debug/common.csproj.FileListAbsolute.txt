@@ -1,5 +1,0 @@
-C:\Users\Chris\Desktop\wpf-practice-03\Common\bin\Debug\Common.dll
-C:\Users\Chris\Desktop\wpf-practice-03\Common\bin\Debug\Common.pdb
-C:\Users\Chris\Desktop\wpf-practice-03\Common\obj\Debug\Common.dll
-C:\Users\Chris\Desktop\wpf-practice-03\Common\obj\Debug\Common.pdb
-C:\Users\Chris\Desktop\wpf-practice-03\Common\obj\Debug\common.csproj.CoreCompileInputs.cache
